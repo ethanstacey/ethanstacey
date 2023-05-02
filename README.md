@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Ethan Stacey
-- 👀 I’m interested in cellular automota, graphics design, and games.
-- 🌱 I’m currently learning React and React Native.
-- 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me: ethanstacey.tk
+--> https://hypext1.github.io <--
 
 <!---
 hypext1/hypext1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
